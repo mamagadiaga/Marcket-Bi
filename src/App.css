@@ -33,3 +33,7 @@
   }
 }
 
+/*  */
+.hover:hover{
+  transform: scale(0.9);
+}
